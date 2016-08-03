@@ -1,4 +1,4 @@
-=== Download runs from ejudge ===
+# Download runs from ejudge
 
 * File name format:
   * use run number
@@ -10,5 +10,6 @@
 * Without extid
 
 
-=== Required soft ===
+Required soft 
+=============
 * kdiff3 to compare runs
