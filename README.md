@@ -1,13 +1,14 @@
-use run number
+=== Download runs from ejudge ===
 
-use user Name
+* File name format:
+  * use run number
+  * use user Name
+  * use problem short name
+  * use source lang
 
-use problem short name
+* No directory struct
+* Without extid
 
-use source lang
 
-
-no directory struct
-
-without extid
-
+=== Required soft ===
+* kdiff3 to compare runs
